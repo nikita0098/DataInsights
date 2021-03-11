@@ -189,7 +189,7 @@ basic as well as advanced charts <br>
 
 
   
-If you have any Queries or Suggestions, feel free to reach out to me.<img src="https://media.giphy.com/media/VJxfRqtpbbPMaa1Sgq/giphy.gif" width="40" height="30" />
+If you have any Queries or Suggestions, feel free to reach out to me.<img src="https://media.giphy.com/media/l4SVvgWOQwhloy6US2/giphy.gif" width="60" height="60" />
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
