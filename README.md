@@ -9,7 +9,7 @@ Hello,welcome to this repo. This repo contains certain projects on datascience a
 <br><br><br>
 <img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red"/>
 <br>
-> Problem statement :
+> Problem statement :<img src="https://media.giphy.com/media/SYQFjIKXTL6f2HoJIh/giphy.gif" width="30" height="30" />
 - Predict the percentage of an student based on the no. of study hours. <br>
 - This is a simple linear regression task as it involves just 2 variables.<br>
 - You can use R, Python, SAS Enterprise Miner or any other tool.<br>
