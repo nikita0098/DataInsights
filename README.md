@@ -170,10 +170,11 @@ basic as well as advanced charts <br>
 
 > Demo:
 <a href="">Timeline Analysis : Covid-19</a>
-
 <br><br>
+
+<p align="center"><img src="https://media.giphy.com/media/VJxfRqtpbbPMaa1Sgq/giphy.gif" width="100" height="100" />
 <p align="center">
-  <b><i>Let's connect! Find me on the web.<img src="https://media.giphy.com/media/VJxfRqtpbbPMaa1Sgq/giphy.gif" width="40" height="30" /></i></b>
+  <b><i>Let's connect! Find me on the web.</i></b>
 
 [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
