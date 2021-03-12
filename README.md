@@ -1,4 +1,5 @@
-# DataInsights
+# DataInsights<img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="40" height="40" />
+
 Hello,welcome to this repo. This repo contains certain projects on datascience and business analytics using python as programming language.<br>
 
 <img height="30" src="https://img.shields.io/badge/The Sparks Foundation-black.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=white" />
