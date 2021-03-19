@@ -16,12 +16,12 @@ Hello,welcome to this repo. This repo contains certain projects on datascience a
 - You can use R, Python, SAS Enterprise Miner or any other tool.<br>
 - What will be predicted score if a student studies for 9.25 hrs/ day? <br>
 - Here is the dataset :
-<a href="">Dataset.csv</a><br><br>
+<a href="http://bit.ly/w-data">Dataset.csv</a><br><br>
 > Solution:
-<a href="###"> Prediction using Supervised ML</a>
+<a href="https://github.com/nikita0098/DataInsights/tree/main/Prediction%20using%20Supervised%20ML"> Prediction using Supervised ML</a>
 
 >Demo:
-<a href="###">Prediction using Supervised ML</a>
+<a href="https://youtu.be/O5nNnZZkCTQ">Prediction using Supervised ML</a>
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/Prediction using Unsupervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
@@ -32,12 +32,12 @@ Hello,welcome to this repo. This repo contains certain projects on datascience a
 represent it visually.<br>
 - Use R or Python or perform this task<br>
 - Here is the dataset :
-<a href="">Dataset.csv</a><br><br>
+<a href="https://bit.ly/3kXTdox">Dataset.csv</a><br><br>
 > Solution:
-<a href=""> Prediction using UnSupervised ML</a>
+<a href="https://github.com/nikita0098/DataInsights/tree/main/Prediction%20using%20Unsupervised%20ML"> Prediction using UnSupervised ML</a>
 
 > Demo:
-<a href="">Prediction using Unsupervised ML</a>
+<a href="https://youtu.be/FYIIlFw0mMw">Prediction using Unsupervised ML</a>
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Retail) -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
@@ -51,12 +51,12 @@ make more profit.<br>
 - You can choose any of the tool of your choice<br>
 (Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
 - Here is the dataset :
-<a href="">Dataset.csv</a><br><br><br>
+<a href="https://bit.ly/3i4rbWl">Dataset.csv</a><br><br><br>
 > Solution:
-<a href=""> Exploratory Data Analysis-Retail</a>
+<a href="https://github.com/nikita0098/DataInsights/tree/main/Exploratory%20Data%20Analysis%20-%20Retail"> Exploratory Data Analysis-Retail</a>
 
 > Demo:
-<a href="">Exploratory Data Analysis-Retail</a>
+<a href="https://youtu.be/mC5bUXfrokM">Exploratory Data Analysis-Retail</a>
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/Prediction using Decision Tree Algorithm -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
@@ -68,30 +68,12 @@ make more profit.<br>
 predict the right class accordingly. <br>
 - Use R or Python or perform this task<br>
 - Here is the dataset :
-<a href="">Dataset.csv</a><br><br>
+<a href="https://bit.ly/3kXTdox">Dataset.csv</a><br><br>
 > Solution:
-<a href=" </a>
+<a href="https://github.com/nikita0098/DataInsights/tree/main/Prediction%20using%20Decision%20Tree%20Algorithm"</a>
 
 > Demo:
-<a href="">Prediction using Decision Tree Algorithm</a>
-
-<br><br>
-<img height="27" src="https://img.shields.io/badge/To explore Business Analytics -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
-<br>
-
-> Problem Statement:<img src="https://media.giphy.com/media/l0HlF2o9BkUO7da8w/giphy.gif" width="30" height="30" />
-- Perform ‘explore Business Analytics’ on dataset ‘superstore.csv’ <br>
-
-- What all business problems you can derive by exploring the data?<br>
-- You can choose any of the tool of your choice<br>
-(Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
-- Here is the dataset :
-<a href="">Dataset.csv</a><br>
-> Solution:
-<a href="">To explore Business Analytics </a>
-
-> Demo:
-<a href="">To explore Business Analytics</a>
+<a href="https://youtu.be/aSQxuhplr8I">Prediction using Decision Tree Algorithm</a>
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Terrorism) -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
@@ -104,12 +86,12 @@ predict the right class accordingly. <br>
 - You can choose any of the tool of your choice
 (Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
 - Here is the dataset :
-<a href="">Dataset.csv</a><br>
+<a href="https://bit.ly/2TK5Xn5">Dataset.csv</a><br>
 > Solution:
-<a href="">Exploratory Data Analysis - Terrorism</a>
+<a href="https://github.com/nikita0098/DataInsights/tree/main/Exploratory%20Data%20Analysis%20-%20Terrorism">Exploratory Data Analysis - Terrorism</a>
 
 > Demo:
-<a href=" ">Exploratory Data Analysis - Terrorism</a>
+<a href="https://youtu.be/zSg4TviIPd0">Exploratory Data Analysis - Terrorism</a>
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Sports) -Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
@@ -125,10 +107,10 @@ predict the right class accordingly. <br>
 - Here is the dataset :
 <a href="https://bit.ly/34SRn3b">Dataset.csv</a><br>
 > Solution:
-<a href="">Exploratory Data Analysis - Sports</a>
+<a href="https://github.com/nikita0098/DataInsights/tree/main/Exploratory%20Data%20Analysis%20-%20Sports">Exploratory Data Analysis - Sports</a>
 
 > Demo:
-<a href="">Exploratory Data Analysis - Sports</a>
+<a href="https://youtu.be/rw-CJLAfDXM">Exploratory Data Analysis - Sports</a>
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/Stock Market Prediction using Numerical and Textual Analysis -Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
@@ -148,10 +130,10 @@ while not changing the objective of the task.<br>
   - Download textual (news) data from https://bit.ly/36fFPI6
 </a><br>
 > Solution:
-<a href="">Stock Market Prediction using Numerical and Textual Analysis</a>
+<a href="https://github.com/nikita0098/DataInsights/tree/main/Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis">Stock Market Prediction using Numerical and Textual Analysis</a>
 
 > Demo:
-<a href="">Stock Market Prediction using Numerical and Textual Analysis</a>
+<a href="https://youtu.be/ZNohf9TxAQ4">Stock Market Prediction using Numerical and Textual Analysis</a>
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/Timeline Analysis: COVID 19 -Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
@@ -167,10 +149,10 @@ basic as well as advanced charts <br>
 
   - Dataset: Daily updated .csv file on https://bit.ly/30d2gdi <br>  
 > Solution:
-<a href="">Timeline Analysis : Covid-19 </a>
+<a href="https://github.com/nikita0098/DataInsights/tree/main/Timeline%20Analysis%20:%20Covid-19">Timeline Analysis : Covid-19 </a>
 
 > Demo:
-<a href="">Timeline Analysis : Covid-19</a>
+<a href="https://youtu.be/ohliaEPQDwY">Timeline Analysis : Covid-19</a>
 <br><br>
 
 <p align="center"><img src="https://media.giphy.com/media/VJxfRqtpbbPMaa1Sgq/giphy.gif" width="100" height="100" />
